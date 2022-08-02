@@ -1,0 +1,13 @@
+PARA INICIAR UN NUEVO REPOSITORIO CREADO, EN LA PC
+    git init
+    git clone https://github.com/TobiasCoding/website.git
+
+PARA INICIAR Y ACTUALIZAR EL REPOSITORIO
+    git init
+        git checkout "gh-pages" (para moverse al branch "gh-pages")
+    git add .
+    git status
+    git commit -m "First page"
+    git status
+    git push
+
