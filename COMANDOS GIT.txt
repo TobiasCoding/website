@@ -11,3 +11,11 @@ PARA INICIAR Y ACTUALIZAR EL REPOSITORIO
     git status
     git push
 
+ACTUALIZAR NUEVAMENTE EL REPOSITORIO
+    git status
+    git add .
+    git status
+    git push
+    git commit -m "Descripcion"
+    git push
+
